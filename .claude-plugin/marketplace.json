@@ -1,0 +1,26 @@
+{
+  "name": "dalbodre-marketplace",
+  "description": "달보드레가 큐레이션하는 한국형 AI 콘텐츠 도구 모음",
+  "owner": {
+    "name": "달보드레",
+    "email": "dalbodreyu@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "image2-creator-suite",
+      "source": {
+        "type": "github",
+        "repo": "dalbodreyu/image2-creator-suite"
+      },
+      "description": "ChatGPT Image 2.0(gpt-image-2) 기반 한국형 콘텐츠 자동 생성 — 카드뉴스, 배너, 메뉴판, 유튜브 썸네일 4종을 한 마디로",
+      "category": "content-creation",
+      "keywords": [
+        "image-generation",
+        "korean",
+        "youtube-thumbnail",
+        "card-news",
+        "gpt-image-2"
+      ]
+    }
+  ]
+}
