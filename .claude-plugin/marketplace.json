@@ -9,8 +9,8 @@
     {
       "name": "image2-creator-suite",
       "source": {
-        "source": "github",
-        "repo": "dalbodreyu/image2-creator-suite"
+        "source": "url",
+        "url": "https://github.com/dalbodreyu/image2-creator-suite.git"
       },
       "description": "ChatGPT Image 2.0(gpt-image-2) 기반 한국형 콘텐츠 자동 생성 — 카드뉴스, 배너, 메뉴판, 유튜브 썸네일 4종을 한 마디로",
       "category": "content-creation",
